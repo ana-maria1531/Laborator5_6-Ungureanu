@@ -1,4 +1,4 @@
-# Laborator5/6-Ungureanu
+# Laborator5/6/7-Ungureanu
 ## Student
 **Nume:** Ungureanu  
 **Prenume:** Ana-Maria  
